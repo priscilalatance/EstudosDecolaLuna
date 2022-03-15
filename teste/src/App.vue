@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="Teste">
     <nav>
       <router-link to="/">Diferente</router-link> |
       <router-link to="/about">Alteração</router-link>
@@ -8,11 +8,6 @@
   </div>
 </template>
 
-<script>
-export default {
-  
-}
-</script>
 
 
 <style scoped>
