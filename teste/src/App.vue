@@ -4,6 +4,7 @@
       <router-link to="/">Diferente</router-link>
       <router-link to="/about">Alteração</router-link>
       <router-link to="teste">Detalhe</router-link>
+      <router-link to="/">TestePri</router-link>
     </nav>
     <router-view/>
   </div>
